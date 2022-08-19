@@ -73,7 +73,7 @@ PHP developer with experience with Drupal CMS Websites and Symfony framework bas
 #### June 2015 - September 2015
 - Company: Domotica colombiana S.A.S
 - Job Title: Development Engineer - Business Practice
-    - Development of scripts for integration of home automation brands in Java language.
+    - Scripts development for integration of home automation brands in Java language.
     - Specification of home automation projects.
     - Training of clients in knowledge of installation and programming of home automation systems.
 
