@@ -1,6 +1,7 @@
 # JUAN DIEGO BONILLA GUATIVA
+## Back-End Developer PHP - Symfony - Drupal
 
-- Edad: 27 Años
+- Edad: 28 Años
 - Cel: 3213085706
 - Email: juandiegobonillaguativa@gmail.com
 - Profesion: Ingeniero Mecatrónico - Universidad Piloto de Colombia
@@ -8,11 +9,8 @@
 
 ## PERFIL PROFESIONAL
 
-### Ingeniero Mecatrónico, con conocimientos y experiencia en:
-
-- Desarrollo web Html, Css, Sass, Php (Laravel, Symfony), Javascript, React, Vuejs, Angular, Node, Nextjs, AMP, Joomla, Drupal 9, Graphql, Mysql.
+- Desarrollo web Php (Symfony), Javascript, React, Drupal 9, Graphql, Mysql.
 - Servicios de cache tipo Redis.
-- Desarrollo movil en Android (Java, Kotlin), React Native. 
 - Control de versiones con Git (Experiencia en Github, Bitbucket, Gitlab, Assembla), 
 - Metodologia agil scrum y lean StartUp. 
 - Manejo de servicios de AWS Cognito, Amplify, S3.
@@ -26,11 +24,7 @@
 ### Lenguajes de programación
 
 -	PHP
--	SASS/SCSS
 -	JAVASCRIPT
--	JQUERY
--	JAVA
--	KOTLIN
 -	SQL
 
 ## ESTUDIOS
@@ -58,13 +52,13 @@
 - Empresa: RCN Radio
 - Cargo: Desarrollador Backend
 - Funciones: 
-    - Desarrollo, actualización y mantenimiento de sitios web en Drupal 8/9 con implementación de Vue.js, Graphql, Redis, Angular, Laravel. AWS Cognito, AWS Amplify, AWS S3
+    - Desarrollo, actualización y mantenimiento de sitios web en Drupal 8/9 (CMS con base Symfony) con implementación de Graphql, Redis, AWS Cognito, AWS Amplify, AWS S3
 
 #### Enero 2020 - Diciembre 2021
 - Empresa: Task Force Consulting SAS
 - Cargo: Desarrollador
 - Funciones: 
-    - Desarrollo, actualización, y mantenimiento de software en el CMS Joomla, usando lenguajes de programación PHP y JS.
+    - Desarrollo, actualización, y mantenimiento de software en backend Symfony y frontend React, usando lenguajes de programación PHP y TS.
     - Control de versiones con git en Gitlab.
     - Despliegue de desarrollos en Google Cloud Console.
 
@@ -72,6 +66,7 @@
 - Empresa: RTVC Sistema de Medios Públicos
 - Cargo: Desarrollador Web
 - Funciones:
+    - Desarrollo, actualización y mantenimiento de sitios web en Drupal 8/9 (CMS con base Symfony)
     - Apoyar la modificación visual de los desarrollos a cargo de la fábrica de software.
     - Estudiar y participar en la definición de nuevos lenguajes, aplicaciones y políticas de desarrollo web.
     - Apoyar la definición de usabilidad de los sitios web de RTVC.
