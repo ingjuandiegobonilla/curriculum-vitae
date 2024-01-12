@@ -28,7 +28,7 @@
 
 ## EXPERIENCIA LABORAL
 
-### Mayo 2023 - Actual
+#### Mayo 2023 - Actual
 - Empresa: Reloquest
 - Cargo: Senior Developer
 - Funciones:
