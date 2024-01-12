@@ -1,20 +1,19 @@
 # JUAN DIEGO BONILLA GUATIVA
 ## Back-End Developer PHP - Symfony - Drupal
 
-- Edad: 28 Años
+- Edad: 29 Años
 - Cel: 3213085706
 - Email: juandiegobonillaguativa@gmail.com
 - Profesion: Ingeniero Mecatrónico - Universidad Piloto de Colombia
-- Perfil de Github: https://github.com/ingjuandiegobonilla
 
 ## PERFIL PROFESIONAL
 
-- Desarrollo web Php (Symfony), Javascript, React, Drupal 9, Graphql, Mysql.
+- Desarrollo web Php (Drupal, Symfony), Javascript, React, Graphql, Mysql.
 - Servicios de cache tipo Redis.
 - Control de versiones con Git (Experiencia en Github, Bitbucket, Gitlab, Assembla), 
 - Metodologia agil scrum y lean StartUp. 
-- Manejo de servicios de AWS Cognito, Amplify, S3.
-- Manejo de ambientes de desarrollo con Lando (Capa de abstracción de Docker). 
+- Manejo de servicios de AWS (Cognito, Amplify, S3).
+- Manejo de ambientes de desarrollo con Lando (Capa de abstracción de Docker).
 - Con actitud de liderazgo, aprendizaje rápido, pensamiento estratégico, trabajo en equipo, adaptabilidad y autoconfianza.
 
 ### Otros idiomas
@@ -27,32 +26,19 @@
 -	JAVASCRIPT
 -	SQL
 
-## ESTUDIOS
-
-- 2011 - 2017	INGENIERÍA MECATRÓNICA - UNIVERSIDAD PILOTO DE COLOMBIA - Bogotá
-- 2007 a 2010 BACHILLER EN TECNOLOGÍA EN GESTIÓN EMPRESARIAL Y SISTEMAS - INSTITUTO TECNOLÓGICO LOS ANDES - Soacha
-
-## OTROS ESTUDIOS
-
-- 2019	Desarrollo de Aplicaciones en ANDROID - BOGOTA - INTECAP Instituto Técnico de Capacitación
-- 2019	PHP WITH LARAVEL FOR BEGINNERS – En curso - BOGOTA	UDEMY.COM
-- 2018	GIT+GITHUB: TODO UN SISTEMA DE CONTROL DE VERSIONES BOGOTA	UDEMY.COM
-- 2018	PHP for Beginners - Become a PHP Master - CMS Project – En curso BOGOTA	UDEMY.COM
-- 2018	CURSO PROFESIONAL DE GIT Y GITHUB BOGOTA	APPS.CO – PLATZI – GOBIERNO DE COLOMBIA
-- 2018	CURSO DE PROGRAMACIÓN BASICA BOGOTA	APPS.CO – PLATZI – GOBIERNO DE COLOMBIA
-- 2018	TALLER HERRAMIENTAS Y METODOLOGÍAS PARA SEGURIDAD DIGITAL BOGOTA	CORPORACIÓN DE EDUCACIÓN TECNOLÓGICA COLSUBSIDIO – AIRBUS GROUP
-- 2017	CAPACITACIÓN PARA CONFIGURACION DE SISTEMAS CONTROL4 BOGOTA	HOMETECH UNIVERSITY
-- 2017	EFICIENCIA ENERGETICA EN INSTALACIONES DE ILUMINACIÓN ONLINE	UNIVERSIDAD JAUME I, Código de verificación: snNurdlqwG
-- 2012	3DS MAX LEVEL II ADVANCED AutoDesk Certificado No. 160T5TYTY3 BOGOTÁ	CAD Ingeniería y Sistemas Ltda.
-- 2012	3DS MAX LEVEL I FUNDAMENTALS AutoDesk Certificado No. 1586261075 BOGOTÁ	CAD Ingeniería y Sistemas Ltda.
-
 ## EXPERIENCIA LABORAL
 
-#### Abril 2021 - Actual
+### Mayo 2023 - Actual
+- Empresa: Reloquest
+- Cargo: Senior Developer
+- Funciones:
+    - Desarrollo, actualización y mantenimiento de los sitios y aplicaciones web en Symfony/Drupal
+
+#### Abril 2021 - Mayo - 2023
 - Empresa: RCN Radio
 - Cargo: Desarrollador Backend
 - Funciones: 
-    - Desarrollo, actualización y mantenimiento de sitios web en Drupal 8/9 (CMS con base Symfony) con implementación de Graphql, Redis, AWS Cognito, AWS Amplify, AWS S3
+    - Desarrollo, actualización y mantenimiento de sitios web en Drupal (CMS con base Symfony) con implementación de Graphql, Redis, AWS Cognito, AWS Amplify, AWS S3
 
 #### Enero 2020 - Diciembre 2021
 - Empresa: Task Force Consulting SAS
@@ -62,11 +48,11 @@
     - Control de versiones con git en Gitlab.
     - Despliegue de desarrollos en Google Cloud Console.
 
-#### Abril 2019 - Actual
+#### Abril 2019 - Diciembre 2019
 - Empresa: RTVC Sistema de Medios Públicos
 - Cargo: Desarrollador Web
 - Funciones:
-    - Desarrollo, actualización y mantenimiento de sitios web en Drupal 8/9 (CMS con base Symfony)
+    - Desarrollo, actualización y mantenimiento de sitios web en Drupal (CMS con base Symfony)
     - Apoyar la modificación visual de los desarrollos a cargo de la fábrica de software.
     - Estudiar y participar en la definición de nuevos lenguajes, aplicaciones y políticas de desarrollo web.
     - Apoyar la definición de usabilidad de los sitios web de RTVC.
@@ -99,6 +85,25 @@ proyectos
     - Desarrollo de scripts para integración de marcas de domótica en lenguaje Java.
     - Especificación de proyectos de domótica.
     - Capacitación de clientes en conocimientos de instalación y programación de sistemas de domótica.
+
+## ESTUDIOS
+
+- 2011 - 2017	INGENIERÍA MECATRÓNICA - UNIVERSIDAD PILOTO DE COLOMBIA - Bogotá
+- 2007 a 2010 BACHILLER EN TECNOLOGÍA EN GESTIÓN EMPRESARIAL Y SISTEMAS - INSTITUTO TECNOLÓGICO LOS ANDES - Soacha
+
+## OTROS ESTUDIOS
+
+- 2019	Desarrollo de Aplicaciones en ANDROID - BOGOTA - INTECAP Instituto Técnico de Capacitación
+- 2019	PHP WITH LARAVEL FOR BEGINNERS – En curso - BOGOTA	UDEMY.COM
+- 2018	GIT+GITHUB: TODO UN SISTEMA DE CONTROL DE VERSIONES BOGOTA	UDEMY.COM
+- 2018	PHP for Beginners - Become a PHP Master - CMS Project – En curso BOGOTA	UDEMY.COM
+- 2018	CURSO PROFESIONAL DE GIT Y GITHUB BOGOTA	APPS.CO – PLATZI – GOBIERNO DE COLOMBIA
+- 2018	CURSO DE PROGRAMACIÓN BASICA BOGOTA	APPS.CO – PLATZI – GOBIERNO DE COLOMBIA
+- 2018	TALLER HERRAMIENTAS Y METODOLOGÍAS PARA SEGURIDAD DIGITAL BOGOTA	CORPORACIÓN DE EDUCACIÓN TECNOLÓGICA COLSUBSIDIO – AIRBUS GROUP
+- 2017	CAPACITACIÓN PARA CONFIGURACION DE SISTEMAS CONTROL4 BOGOTA	HOMETECH UNIVERSITY
+- 2017	EFICIENCIA ENERGETICA EN INSTALACIONES DE ILUMINACIÓN ONLINE	UNIVERSIDAD JAUME I, Código de verificación: snNurdlqwG
+- 2012	3DS MAX LEVEL II ADVANCED AutoDesk Certificado No. 160T5TYTY3 BOGOTÁ	CAD Ingeniería y Sistemas Ltda.
+- 2012	3DS MAX LEVEL I FUNDAMENTALS AutoDesk Certificado No. 1586261075 BOGOTÁ	CAD Ingeniería y Sistemas Ltda.
 
 ## LOGROS Y MÉRITOS
 
